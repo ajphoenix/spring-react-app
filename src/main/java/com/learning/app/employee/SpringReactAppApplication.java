@@ -1,4 +1,4 @@
-package com.learning.app.SpringReactApp;
+package com.learning.app.employee;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
